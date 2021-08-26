@@ -3,7 +3,7 @@
 ### Holi compañeros 👋
 
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Gracias por visitar el Perfil de la alumna Reuyna Marialaura :heart:
 
 Atendiendo estudiantes de PFLC y TecTijuana:
 
@@ -29,11 +29,22 @@ Inventario maker para cursos
 - kit de sensores y herramientas soldar
 
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ### Horario
 
-|*Materias* | *Simbolo*| |TIME | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
-| :--	|:--:	|  | :--	|:--:	|:--:	|:--:	| :--:	| :--:	|
-| `Redes de Computadoras` | :computer: | | 15hrs | :computer:	| :computer: | :computer: | :computer: |:computer: |
-| `Gestion de Proyectos de Software` | :books: | | 16hrs | :books:	| :books: |:books: | :books: |:books: |
-| `Sistemas Programables` | :shipit: | | 17hrs | :shipit:	| :shipit: | :shipit: | :shipit: | |
-| `Programacion Web` | :e-mail: | | 18hrs | :e-mail:	| :e-mail: | :e-mail: | :e-mail: |:e-mail: |
+|*Materias* |TIME | LUNES | MARTES | MIERCOLES | JUEVES | VIERNES |
+| :--	| :--	|:--:	|:--:	|:--:	| :--:	| :--:	|
+| `Redes de Computadoras` | 15hrs | :computer:	| :computer: | :computer: | :computer: |:computer: |
+| `Gestion de Proyectos de Software` | 16hrs | :books:	| :books: |:books: | :books: |:books: | 
+| `Sistemas Programables` | 17hrs | :shipit:	| :shipit: | :shipit: | :shipit: | | 
+| `Programacion Web` | 18hrs | :e-mail:	| :e-mail: | :e-mail: | :e-mail: |:e-mail: |
+
+
+> El único modo de hacer un gran trabajo es amar lo que haces - Steve Jobs
