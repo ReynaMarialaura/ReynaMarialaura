@@ -3,7 +3,7 @@
 ### Holi compañeros 👋
 
 
-Gracias por visitar el Perfil de la alumna Reyna Marialaura :heart:
+Gracias por visitar el Perfil de la alumna Marialaura Reyna :heart:
 
 ```diff
 @@                                             Un poco de mi                                                       @@
